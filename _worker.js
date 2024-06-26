@@ -18,7 +18,7 @@ const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
-let dohURL = 'https://dns.google/dns-query';
+let dohURL = 'https://sky.rethinkdns.com/dns-query';
 
 let panelVersion = '2.4.1';
 
