@@ -4091,7 +4091,7 @@ var proxyIPs = ["bpb.yousef.isegaro.com"];
 var defaultHttpPorts = ["80", "8080", "2052", "2082", "2086", "2095", "8880"];
 var defaultHttpsPorts = ["443", "8443", "2053", "2083", "2087", "2096"];
 var proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
-var dohURL = "https://cloudflare-dns.com/dns-query";
+var dohURL = "https://sky.rethinkdns.com/1:-P_____________93________9f_____7_sA-A==";
 var hashPassword;
 var panelVersion = "2.6.8";
 var worker_default = {
